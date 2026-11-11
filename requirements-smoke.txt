@@ -1,0 +1,5 @@
+# Dependency reference for the forthcoming full-release smoke tests.
+# The public-preview crest.py uses only the Python standard library.
+numpy
+torch
+pandas  # SCAT timestamp parsing
