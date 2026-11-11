@@ -1,0 +1,7 @@
+# Public preview: allow only these four files to be newly tracked.
+# Replace this allowlist when publishing the full implementation.
+/*
+!/.gitignore
+!/crest.py
+!/README.md
+!/requirements-smoke.txt
